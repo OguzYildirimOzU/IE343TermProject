@@ -1,5 +1,4 @@
 # IE343TermProject
-Oğuz Yıldırım &amp; Ata Kemal Semerci
 **A\. Explanation of the part in the code written by us:**
 
 The part we added to the code is the implementation of the simulated annealing
